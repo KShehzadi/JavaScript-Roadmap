@@ -1,4 +1,5 @@
-# JavaScript roadmap for learning the fundamentals
+# JavaScript
+## JavaScript roadmap for learning the fundamentals
 
 1. Variables (var, let and const) - 🔗 https://scotch.io/courses/10-need-to-know-javascript-concepts/declaring-javascript-variables-var-let-and-const
 
@@ -26,7 +27,7 @@
 
 13. Functions - 🔗 https://btholt.github.io/intro-to-web-dev-v2/functions-and-scope
 
-14.Arrow functions - 🔗 https://wesbos.com/arrow-functions/
+14. Arrow functions - 🔗 https://wesbos.com/arrow-functions/
 
 15. The DOM - 🔗 http://javascripttutorial.net/javascript-dom/
 
